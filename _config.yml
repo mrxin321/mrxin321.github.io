@@ -3,12 +3,12 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+github: mrxin321
+author: "蔡祖鑫"
+email: mrxin321#163.com
+name: "蔡祖鑫个人博客"
+url: http://mrxin321.github.io
+domain: mrxin321.github.io
 all_categories: [
 ["android", "unity学习","/posts/android.html"], 
 ["program", "软件编程","/posts/program.html"],
